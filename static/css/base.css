@@ -1,0 +1,18 @@
+body{
+  background-color: #ebeff5;
+}
+#total-orders{
+  background-color: #4cb4c7;
+}
+#orders-delivred{
+  background-color: #7abecc;
+}
+#orders-pending{
+  background-color: #7CD1C0;
+}
+.go{
+  font-size: 18px;
+  color: crimson;
+  margin-right: 20px;
+  
+}
